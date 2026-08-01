@@ -1,0 +1,36 @@
+# Python FastAPI Course
+
+Curso práctico y progresivo de Python y FastAPI, diseñado para aprender desarrollo backend desde los fundamentos hasta la construcción de aplicaciones listas para producción.
+
+## Objetivos
+
+- Comprender Python y su sistema de tipos.
+- Diseñar APIs REST con FastAPI.
+- Trabajar con bases de datos.
+- Implementar autenticación y autorización.
+- Integrar frontend, APIs y servicios externos.
+- Escribir pruebas automatizadas.
+- Utilizar Docker.
+- Preparar aplicaciones para producción.
+
+## Contenido
+
+1. Fundamentos de Python
+2. Programación orientada a objetos
+3. Introducción a FastAPI
+4. APIs REST
+5. Bases de datos
+6. Autenticación
+7. Testing
+8. Docker
+9. Proyecto final
+
+## Tecnologías
+
+- Python
+- FastAPI
+- Pydantic
+- SQLAlchemy
+- PostgreSQL
+- Docker
+- GitHub
